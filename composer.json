@@ -1,0 +1,19 @@
+{
+  "name": "fraction-framework/starter",
+  "description": "Your First Fraction Framework Application",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Andrii Kryvoviaz",
+      "email": "andriy.kryvoviaz@gmail.com"
+    }
+  ],
+  "require": {
+    "fraction-framework/fraction": "v1.0.0-beta"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+}
