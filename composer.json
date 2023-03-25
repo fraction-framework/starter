@@ -1,5 +1,6 @@
 {
   "name": "fraction-framework/starter",
+  "type": "project"
   "description": "Your First Fraction Framework Application",
   "license": "MIT",
   "authors": [
