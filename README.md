@@ -22,7 +22,7 @@ To begin using the Fraction Framework Starter Application, follow these steps:
 or simply run the following command:
 
 ```bash
-composer create-project fraction/starter my-app
+composer create-project fraction-framework/starter my-app
 ```
 
 where `my-app` is the name of your application.
