@@ -10,7 +10,7 @@
     }
   ],
   "require": {
-    "fraction-framework/fraction": "*"
+    "fraction-framework/fraction": "^v1.1.0"
   },
   "autoload": {
     "psr-4": {
